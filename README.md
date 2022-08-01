@@ -1,6 +1,7 @@
 # Getir Clone with React + TailwindCSS 
 
-[Project View] (https://github.com/efnanozkan/getirClone-ReactJS-TailwindCSS/blob/master/ss.png?raw=true) <br/>
+![Project View] (https://user-images.githubusercontent.com/107806946/182155642-1e41466a-7d99-4188-af2f-6ff7fc89c78a.png)
+ <br/>
 
 <p> In order to improve my skills, I created a clone website. "getir.com", which is an active market shopping and food delivery service to homes in Turkey. This website created with React. Therefore,  I thought it would be a nice step to learn ReactJS.  <br/>
 I also used Tailwind CSS  for style.
