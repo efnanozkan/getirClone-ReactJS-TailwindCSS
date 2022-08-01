@@ -65,7 +65,7 @@ export default function Categories() {
             <div className="container mx-auto">
                 <Title className="ml-6" >Kategoriler</Title>
                 <div className="grid grid-cols-4 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-10 xl:grid-cols-10 2xl:grid-cols-10">
-                    {categories.map(category => {g
+                    {categories.map(category => {
                         return <button className='flex flex-col group items-center gap-y-2 text-center p-4 transition hover:bg-purple-100' key={category.id}>
                             <img src={category.image} onClick={openModal} className="w-12 h-12 rounded border border-gray-200" />
                             <span onClick={openModal} className="text-sm font-semibold text-gray-700 whitespace-nowrap group-hover:text-getir-color tracking-tighter">{category.title}</span>
