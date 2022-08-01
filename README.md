@@ -1,5 +1,6 @@
 # Getir Clone with React + TailwindCSS 
 
+## Project View
 ![Project View](https://user-images.githubusercontent.com/107806946/182155840-3d8d4ebc-1a08-4e9c-8a79-adbc2f2f2982.png)
 
 
@@ -20,7 +21,8 @@ You can review the codes. </p>
 
 ## JSON Server db.js
 I used JSON Server for Fake API, you can see the 'offers' datas. <br/>
-[db.js] (https://github.com/efnanozkan/getirClone-ReactJS-TailwindCSS/blob/master/sss.JPG?raw=true)
+![db.js](https://user-images.githubusercontent.com/107806946/182156117-01d52222-2d74-4a85-be3d-3db6d2612f77.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
