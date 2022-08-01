@@ -1,7 +1,6 @@
 # Getir Clone with React + TailwindCSS 
 
-![Project View] [https://github.com/efnanozkan/getirClone-ReactJS-TailwindCSS/blob/master/ss.png?raw=true]
-
+![Project View] (https://github.com/efnanozkan/getirClone-ReactJS-TailwindCSS/blob/master/ss.png?raw=true)
 
 <p> In order to improve my skills, I created a clone website. "getir.com", which is an active market shopping and food delivery service to homes in Turkey. This website created with React. Therefore,  I thought it would be a nice step to learn ReactJS.  <br/>
 I also used Tailwind CSS  for style.
@@ -18,6 +17,9 @@ You can review the codes. </p>
 - JSON Server
 - React Hooks
 
+## JSON Server db.js
+I used JSON Server for Fake API, you can see the 'offers' datas.
+![db.js] (https://github.com/efnanozkan/getirClone-ReactJS-TailwindCSS/blob/master/sss.JPG?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
