@@ -1,6 +1,6 @@
 # Getir Clone with React + TailwindCSS 
 
-## Project View
+## Project Overview
 ![Project View](https://user-images.githubusercontent.com/107806946/182155840-3d8d4ebc-1a08-4e9c-8a79-adbc2f2f2982.png)
 
 
